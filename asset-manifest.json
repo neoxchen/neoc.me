@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/neoc.me/static/css/main.2052f644.css",
+    "main.js": "/neoc.me/static/js/main.a75f6c49.js",
+    "static/media/hexagon_cluster.png": "/neoc.me/static/media/hexagon_cluster.e85702228e84eb5a7ce7.png",
+    "static/media/photo.png": "/neoc.me/static/media/photo.4ce5844f0c4e3c7ebb41.png",
+    "static/media/orb_torchstar.png": "/neoc.me/static/media/orb_torchstar.df4508679fc09b39e6c9.png",
+    "static/media/orb_amazon.png": "/neoc.me/static/media/orb_amazon.df711af79b8600e964f1.png",
+    "static/media/orb_tencent.png": "/neoc.me/static/media/orb_tencent.bb09aa862c44e9dc1501.png",
+    "static/media/orb_zoom.png": "/neoc.me/static/media/orb_zoom.a4d42490b1c6f57179c6.png",
+    "static/media/placeholder.png": "/neoc.me/static/media/placeholder.8512754d644875eb0400.png",
+    "static/media/droplet.png": "/neoc.me/static/media/droplet.27e53e8fb5267d3f3bb6.png",
+    "static/media/icon_email.svg": "/neoc.me/static/media/icon_email.93e4709a6ddf8bb92725e8935ff4a16c.svg",
+    "static/media/icon_github.svg": "/neoc.me/static/media/icon_github.6056248b1ba09a5969381917723fb583.svg",
+    "static/media/icon_github_green.svg": "/neoc.me/static/media/icon_github_green.95d945b6c63828c1df8fb5095839a6b6.svg",
+    "index.html": "/neoc.me/index.html",
+    "static/media/icon_linkedinx.svg": "/neoc.me/static/media/icon_linkedinx.7f05f41aa66f22ee63ed1a3271192334.svg",
+    "static/media/icon_linkedinx_green.svg": "/neoc.me/static/media/icon_linkedinx_green.2c3e34786d2e5ecb6fcccdbe5d898678.svg",
+    "static/media/icon_external_link.svg": "/neoc.me/static/media/icon_external_link.5645a14c413fe1384abe02fedb7a0855.svg",
+    "main.2052f644.css.map": "/neoc.me/static/css/main.2052f644.css.map",
+    "main.a75f6c49.js.map": "/neoc.me/static/js/main.a75f6c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2052f644.css",
+    "static/js/main.a75f6c49.js"
+  ]
+}
